@@ -1,0 +1,30 @@
+{
+  "cart":[],
+  "products":[
+    {
+      id: 1,
+      price: 2800,
+      name: "Macbook Pro"
+    },
+    {
+      id: 2,
+      price: 800,
+      name: "iPhone"
+    },
+    {
+      id: 3,
+      price: 50,
+      name: "USB-C Adaptor"
+    },
+    {
+      id: 4,
+      price: 200,
+      name: "iPod"
+    },
+    {
+      id: 5,
+      price: 600,
+      name: "Apple Watch"
+    }
+  ]
+}
