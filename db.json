@@ -35,5 +35,12 @@
       "price": 600,
       "name": "Apple Watch"
     }
+  ],
+  "branches":[
+    {"id":"B182"},
+    {"id":"A812"},
+    {"id":"D452"},
+    {"id":"D362"}
+    
   ]
 }
